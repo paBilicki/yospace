@@ -25,7 +25,7 @@ public class LocatorSolution implements Locator {
 	 *            the found index of the sought item
 	 */
 	public void printIndex(String itemSought, int index) {
-		System.out.println("itemSought: " + itemSought + ", index: " + index);
+		System.out.println("ItemSought: " + itemSought + ", index: " + index);
 	}
 
 	/**
